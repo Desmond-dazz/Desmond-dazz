@@ -3,7 +3,6 @@
 
 **Desmond-dazz/Desmond-dazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭I'm currently on an exciting journey of learning web development with a strong desire to build responsive and interactive web applications.
 - 🌱 I’m currently learning the building blocks of the web using HTML and CSS, after that i will gradually learn some front and back end programming languages together with the relevent frameworks
